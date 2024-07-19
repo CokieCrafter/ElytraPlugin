@@ -1,0 +1,5 @@
+name: Elytra
+version: 1.0
+main: de.senf.elytra.Elytra
+api-version: "1.20"
+description: Elytra plugin
